@@ -10,9 +10,7 @@ Inclui cadastro de produtos, fornecedores e movimentações de entrada/saída.
 - H2 Database (em memória)
 - Swagger UI (documentação da API)
 
-- ![Java](https://img.shields.io/badge/Java-17-blue)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.0-brightgreen)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+- (https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 
 ## ⚙️ Funcionalidades
