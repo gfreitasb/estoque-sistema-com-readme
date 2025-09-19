@@ -10,7 +10,7 @@ Inclui cadastro de produtos, fornecedores e movimentações de entrada/saída.
 - H2 Database (em memória)
 - Swagger UI (documentação da API)
 
-- [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=java,spring,github,maven,Lombok)](https://skillicons.dev)
 
 
 ## ⚙️ Funcionalidades
