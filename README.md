@@ -37,4 +37,4 @@ Arruela M6,Arruela zincada M6,0.1,300
 
 ---
 
-👨‍💻 Desenvolvido por [Seu Nome](https://www.linkedin.com/in/seu-perfil)
+👨‍💻 Desenvolvido por [Gabriel de Freitas Brito](www.linkedin.com/in/gfreitasb)
